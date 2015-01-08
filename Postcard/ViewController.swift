@@ -6,6 +6,8 @@
 //  Copyright (c) 2014 BitFountain. All rights reserved.
 //
 
+
+//COMMENT to show we made a change on Github.
 import UIKit
 
 class ViewController: UIViewController {
